@@ -1,6 +1,6 @@
 ::: headStart
 ::: start
-## 周仕雄 **大数据开发工程师**
+## 周仕雄 **C++开发工程师**
 ::: start
 icon:user 男 / 2002.06.23
 icon:phone 17386099737
