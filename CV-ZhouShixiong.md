@@ -10,7 +10,7 @@ icon:email [1413597706@qq.com](1413597706@qq.com)
 icon:github [github.com/66deacai](https://github.com/66deacai)
 ::: end
 :::
-![个人头像](https://github.com/66deacai/CV_ZhouShixiong/blob/master/ZhouShixiong.jpg)
+![个人头像](blob:https://codeleilei.gitee.io/5ed4e81d-0208-4807-b880-fe2b1b6fcda9)
 ::: end
 ::: headEnd
 
@@ -47,8 +47,8 @@ icon:github [github.com/66deacai](https://github.com/66deacai)
 - **项目名称**：武汉华工安鼎“密级标志文档”项目
 - **项目时间**：2022.06 - 2022.08
 - **项目描述**：电子文档管理平台。
-- **项目技术栈**：国产化环境开发，C++，网络编程，多线程编程，SQLite，Lua
-- **职责描述**：进行本地客户端后台开发，完成客户端本地库中对于本地文件的各种管理功能，如实现在定密阶段的密级审批，以及本地文档库的密级文件操作等功能模块的开发。
+- **项目技术栈**：国产化环境开发，RPC框架，C++，网络编程，多线程编程，SQLite，Lua
+- **职责描述**：基于使用protobuf实现的RPC框架进行本地客户端后台开发，完成客户端本地库中对于本地文件的各种管理功能，如实现在定密阶段的密级审批，以及本地文档库的密级文件操作等功能模块的开发。
 - **项目重点收获**：熟悉了Linux国产化平台的开发，丰富了对于跨平台开发的经验。了解了前后端分离项目的大致架构实现。
 ::: start
 ::: end
